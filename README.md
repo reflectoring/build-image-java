@@ -9,6 +9,8 @@ This is the docker build image used by the reflectoring team for building java b
 | package        | version |
 |----------------|---------|
 | alpine Linux   | 3.5.2   |
+| bash           | 4.3.46  |
+| curl           | 7.52.1  | 
 | OpenJDK        | 8u121   |
 | git            | 2.11.1  |
 | Python 2       | 2.7.13  |
