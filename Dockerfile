@@ -21,6 +21,7 @@ RUN pip install docker-compose==1.5.2
 RUN bash --version \
     && curl --version \
     && git --version \
+    && ssh -V \
     && java -version \
     && python --version \
     && pip --version \
